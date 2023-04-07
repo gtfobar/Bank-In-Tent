@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bank In Tent</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="welcome">"Welcome !"</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bank In Tent</string>
+    <string name="second_fragment_label">Enter the code</string>
+    <string name="next">Send SMS code</string>
+    <string name="previous">Submit code</string>
+
+    <string name="hello_first_fragment">This app intentionally insecurely uses Google SMS Consent API in order to demonstrate possible consequences.</string>
+    <string name="hello_second_fragment">Enter the code, please</string>
+    <string name="title_activity_phone">Bank In Tent</string>
+    <string name="title_activity_top_secret">TopSecretActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="i_am_dinosaur">Я динозавр</string>
+    <string name="phone_num_key">phone_num</string>
+    <string name="launch_webview">Launch WebView</string>
+</resources>
